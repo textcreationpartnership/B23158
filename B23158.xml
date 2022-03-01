@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all magistrates and people in Christendom and elsewhere to turn from the persecuting mind that destroyes peoples bodies and estates for not conforming to your religion and worship : and that you may receive the mind of Christ, as the apostles did, who came to save mens lives, and not to destroy them, and to rebuke them that would destroy mens lives and estates / by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23158</idno>
+            <idno type="STC">Wing F1939</idno>
+            <idno type="EEBO-CITATION">15348033</idno>
+            <idno type="OCLC">ocm 15348033</idno>
+            <idno type="VID">204168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204168)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all magistrates and people in Christendom and elsewhere to turn from the persecuting mind that destroyes peoples bodies and estates for not conforming to your religion and worship : and that you may receive the mind of Christ, as the apostles did, who came to save mens lives, and not to destroy them, and to rebuke them that would destroy mens lives and estates / by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Persecution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204168:1"/>
+            <pb facs="tcp:204168:2"/>
+            <pb facs="tcp:204168:2" rendition="simple:additions"/>
+            <p>TO ALL MAGISTRATES AND PEOPLE IN Chriſtendom, And elſe-where: To Turn from the Perſecuting Mind, that De<g ref="char:EOLhyphen"/>ſtroyes Peoples Bodies and Eſtates for not Confor<g ref="char:EOLhyphen"/>ming to your Religion and Worſhip.</p>
+            <p>And that you may Receive the Mind of Chriſt, as the Apoſtles did, who came to Save Mens Lives, and not to deſtroy them; and to Rebuke them that would deſtroy Mens Lives and Eſtates.</p>
+            <p>By <hi>George Fox.</hi>
+            </p>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:204168:3"/>
+            <pb n="3" facs="tcp:204168:3"/>
+            <head>This is an Epiſtle for all Profeſſions &amp; Profeſſors, that be called <hi>Christians</hi> and others, to Read and Conſider, and Meaſure &amp; Weigh themſelves by, and try Who they are like, and Whoſe Path and Steps they tread in.</head>
+            <p>YOu do not read in the Old World that either <hi>Adam, Seth, Enoch,</hi> or any of thoſe famous Fathers, that did ſucceed each other unto <hi>Noah,</hi> did force or com<g ref="char:EOLhyphen"/>pel any to their Religion or Way of Worſhipping God; though its ſaid, <hi>Noah was grieved with the <g ref="char:V">Ʋ</g>nrighteous Con<g ref="char:EOLhyphen"/>verſation of the old World, who grieved God and his Spirit which ſtrove with them;</hi> but it doth not ſay, it ſtrove with them, with <hi>Carnal Weapons,</hi> or <hi>Goals,</hi> or <hi>Impriſonments.</hi>
+            </p>
+            <p>And though <hi>Noath</hi> was a Preacher of Righteouſneſs, we do not read he forc't or compelled any, or had any ſuch Command from God.</p>
+            <p>And after the Lord God had deſtroyed the old ungodly World, for their Ungodlineſs; who grieved him and his Spirit.</p>
+            <p>So their deſtruction came by reſiſting the Spirit of the Lord, and going from it into Ungodlineſs; and God was Juſt in o<g ref="char:EOLhyphen"/>verthrowing of them, whoſe Spirit had ſtriven with them long, who ſaved Juſt <hi>Noah.</hi>
+            </p>
+            <p>And after that he had deſtroyed the old World, and ſaved <hi>Noah</hi> and his Family; we do not read that ever either <hi>Noah,</hi>
+               <pb n="4" facs="tcp:204168:4"/>or any of them that ſucceeded him, unto <hi>Abraham,</hi> did Force or Compel any to their Religion, or the worſhiping of their God.</p>
+            <p>And alſo <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> that did ſucceed each other; we never read that they did Compel or Force any to ſerve or worſhip God, or compel them to their Wayes.</p>
+            <p>And after, when the Children of <hi>Iſrael</hi> went into <hi>Egypt,</hi> we do not read that <hi>Pharoah</hi> did compel them to his Religion or Worſhip, though he did Oppreſs them ſeveral wayes.</p>
+            <p>And when the Lord ſent <hi>Moſes</hi> to call them out of <hi>Egypt, Pharoah</hi> and <hi>Jannes,</hi> and <hi>Jambres</hi> withſtood <hi>Moſes</hi> and <hi>Aaron,</hi> and reſiſted <hi>Moſes;</hi> yet we do not read they offered to com<g ref="char:EOLhyphen"/>pel them to their Religion, and Worſhip and the <hi>Egyptians</hi> Church; but they compelled them to Work.</p>
+            <p>And we do not read that <hi>Abraham</hi> or <hi>Iſaac,</hi> when they went into <hi>Egypt,</hi> or <hi>Abimelech's</hi> Country, that either <hi>Pha<g ref="char:EOLhyphen"/>roah</hi> or <hi>Abimelech,</hi> did compel them to conform to their Re<g ref="char:EOLhyphen"/>ligion, Way, and Worſhip.</p>
+            <p>And likewiſe <hi>Lot,</hi> who ſojourned in <hi>Sodom,</hi> we do not read that he Compelled any to his Way or Religion, or that the <hi>Sodomites</hi> compelled him to their Way; though he was vexed with their filthy Converſation.</p>
+            <p>And likewiſe when the Children of <hi>Iſrael</hi> came out of <hi>Egypt,</hi> and received the Law of God; they did not compel or force other Nations to ſerve their God; but other Nations came to them, and when their Males were Circumciſed, they might eat of their Sacrifice</p>
+            <p>So look all along from <hi>Moſes</hi> to <hi>Joſhua,</hi> and the Judges, and all the Prophets, and the Kings, where ever ye can find that they did compel any Nation, to ſerve and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſhip their God.</p>
+            <p>Now the <hi>Jews,</hi> when they were taken Captive, we read that <hi>Nebuchadnezar</hi> compelled them: But the <hi>Jews</hi> diſtingui<g ref="char:EOLhyphen"/>ſhed what Sacrifices they were to offer, and what not, and what was called Holy, and what Unholy.</p>
+            <p>But you do not read that they forc't other Nations, to offer a Sacrifice to God upon his Altar by their Law, and Impriſon them, and ſpoil their Goods if they would not, or that they
+<pb n="5" facs="tcp:204168:4"/>forſc't other Nations to come and Worſhip in their Temple or did force them to bring in their Tythes, or yearly Offerings; though they took Tax or Tribute of them.</p>
+            <p>And we ſee after the Kings in <hi>Maccabes,</hi> how ſeveral of the <hi>Iews</hi> ſuffered by the <hi>Heathen,</hi> becauſe they would not conform to their Worſhip: But we do not read that the <hi>Iews</hi> compel<g ref="char:EOLhyphen"/>led other Nations to come to their Worſhip, after they had Conquered them, and made them Tributaryes.</p>
+            <p>Neither do we read, that ever any of the high Prieſts or <hi>Levi</hi> did caſt any into Priſon, becauſe they did not bring in their Tythes into the Store-houſes, but it was a Curſe that re<g ref="char:EOLhyphen"/>mained upon them, as in <hi>Malachi,</hi> if they did not.</p>
+            <p>And after Chriſt came and ſent forth his Diſciples amongſt the <hi>Iews,</hi> and bid them not go in the way of the <hi>Gentiles,</hi> and told them, when he gave them their Commiſſion, and ſent them out to preach the Goſpel, <hi>freely you have received, freely give.</hi>
+            </p>
+            <p>But he ſaid unto them, <hi>Whatſoever they ſet before you that, eate; for the Work man is worthy of his Meat,</hi> &amp;c.</p>
+            <p>Now, they did not compel any to hear them, nor to give them Meat.</p>
+            <p>And Chriſt did not compel any to hear him, or any to Com<g ref="char:EOLhyphen"/>municate to him; who is the Lord and Maſter.</p>
+            <p>And after Chriſt was riſen, who gave a larger Commiſſion to his Diſciples, and bid them go into all Nations, and preach the Goſpel: Chriſt who had died for all Men, and was a pro<g ref="char:EOLhyphen"/>pitiation for the Sins of the whole World, after he had dyed and was riſen, bids them go into all Nations, <hi>and Preach the Goſpel to every Creature.</hi>
+            </p>
+            <p>Now, theſe Apoſtles and Ambaſſadours, were not to compel any to hear them, or to give them Maintenance; and if they would not hear them, nor ſet before them meat: Chriſt gave them no ſuch Commiſſion to caſt them in Priſon, and compel them to give them Maintenance; but Chriſt ſaid unto them, <hi>He that believeth is ſaved, and he that doth not is condemned al<g ref="char:EOLhyphen"/>ready.</hi> And that was puniſhment enough to them that would not receive their Meſſage.</p>
+            <pb n="6" facs="tcp:204168:5"/>
+            <p>And they that received them received him that ſent them, and they that received a Prophet, received a Prophet's reward.</p>
+            <p>And they that would not receive them, they ſhould ſhake off the duſt of their Feet as a witneſs againſt them; and that was puniſhment enough.</p>
+            <p>And if any would not hear his Brother, as concerning practiſe in the Church, he might take one or two more of the Church, and if he would not hear them, then they were to tell it to the Church; and if he would not hear the Church, then he ſhould be to them as a Heathen, and as a Publican: And ſo was cut off from being a Member of Chriſt's heavenly Body, he being the heavenly Head; and that was puniſhment enough, they did not caſt them into Priſon.</p>
+            <p>And Chriſt told his Diſciples, when he did ſend them forth as Sheep amongſt Wolves, (ſo the Nations that were ſettled in their own way and Religions, were like Wolves to them) Chriſt told his Diſciples. <hi>They ſhould be brought before Kings and Rulers, and haled before Magiſtrates, and put out of their Synagogues, and Whipt and Scourged for his Names ſake.</hi>
+            </p>
+            <p>And you may conſider, that theſe were either <hi>Heathens</hi> or <hi>Jews,</hi> that were theſe Whippers, and Scourgers, and Perſe<g ref="char:EOLhyphen"/>cutors.</p>
+            <p>But Chriſt bid his Diſciples take no thought what to ſay, when they were brought before them, for it was the Spirit of the Father that ſpoke in them, and it ſhould be given unto them at that preſent hour.</p>
+            <p>So theſe Diſciples of Chriſt were not to ſtudy before hand, what to preach and ſay to the Kings, Rulers, and Magiſtrates, when they were brought before them.</p>
+            <p>Now theſe <hi>Heathens</hi> and <hi>Jews,</hi> did Whip, Scourge, and Impriſon Chriſt and his Diſciples; and they bore it pati<g ref="char:EOLhyphen"/>ently.</p>
+            <p>But where did ever Chriſt or his Diſciples, whip, ſcourge, or Impriſon any, or the true Church in the Apoſtles Dayes, for not hearing of them, and not giving them Maintenance, or ſpoiled their Goods?</p>
+            <p>But the true Chriſtians ſuffered the ſpoiling of their Goods,
+<pb n="7" facs="tcp:204168:5"/>as the Apoſtle ſpeaks of to the <hi>Hebrews,</hi> that were the hearers of Chriſt, who told them, <hi>That God had ſpoken to their Fathers by the Prophets,</hi> but now in theſe laſt dayes, he had ſpoken unto us by his Son, <hi>&amp;c.</hi>
+            </p>
+            <p>So mark, God had ſpoken to us, that is, his Church, by his Son, who is the Head of it.</p>
+            <p>For God was in Chriſt reconciling the World unto himſelf, who was the firſt ſpeaker to <hi>Adam</hi> and <hi>Eve</hi> in Paradiſe, and was the ſpeaker again to them that heard, and believed in his Son, and is now.</p>
+            <p>And now theſe Chriſtians that God was their Speaker unto, by his Son, which ſuffered the ſpoiling of their Goods joyfully, and were Gazing-ſtocks: Now they that gazed at them, and that had ſpoiled their Goods, were the <hi>Jews,</hi> and the <hi>Gentiles,</hi> that followed their old Profeſſions, and their Wayes.</p>
+            <p>Yet theſe true Chriſtians that heard the Son, we do not read that they ſpoiled either <hi>Jews</hi> or <hi>Gentiles</hi> Goods, or made them Gazingſtocks.</p>
+            <p>For <hi>John</hi> the Divine ſaith in his <hi>Revelations, that the Beaſt compelled all both ſmall and great to Worſhip him, and to receive his Mark.</hi>
+            </p>
+            <p>So we do not read that Chriſt, or <hi>John,</hi> or the Apoſtles, compelled any; but the Beaſt.</p>
+            <p>And he ſaith, <hi>That the Beaſt that did Compel, received his Power from the Dragon;</hi> ſo did not receive it from God and Chriſt.</p>
+            <p>And he ſaith, <hi>All worſhipped the Beaſt, but who had their Names written in the Lamb's Book of Life, before the Founda<g ref="char:EOLhyphen"/>tion of the World.</hi>
+            </p>
+            <p>And therefore let all that go under the name of Chriſtians and <hi>Jews,</hi> conſider this; and others that make a Profeſſion of God and Chriſt, conſider theſe things, and lay them to Heart, and do unto all Men, as you would have them do un<g ref="char:EOLhyphen"/>to you; for you would not have another Man compel you to that Religion which is contrary to yours, and therefore do not you ſo unto them; but mind the Royal Law of Liberty, which Law is holy, juſt, pure, good, and Righteous, and anſwers
+<pb n="8" facs="tcp:204168:6"/>that of God in all, and gives Liberty to the Spirit of God in all.</p>
+            <p>And does not the Apoſtle tell you, <hi>Every Man muſt ſtand and fall to their own Maſter?</hi> So the Apoſtle gave liberty here, that every one muſt ſtand or fall to him that was their Maſter; for he that was Servant of Sin committed it, and the wages of it was Death, and he that was the Servant of God unto Righ<g ref="char:EOLhyphen"/>teouſneſs, and the Fruits unto holyneſs, and their end ever<g ref="char:EOLhyphen"/>laſting Life.</p>
+            <p>And does not the Apoſtle ſay, <hi>that Chriſt was the Author and finiſher of Faith, and whatſoever was not of Faith is Sin?</hi> And therefore muſt not all be left to their Faith, which Chriſt is the Author of? and the Myſtery of Faith is held in a pure Conſcience, then muſt not their Conſciences be free for Chriſt, and at liberty for the Myſtery of Faith which is held in it, which Faith Chriſt the ſpiritual and heavenly Man, is the Au<g ref="char:EOLhyphen"/>thor and finiſher of, who was Perſecuted by the <hi>Jews,</hi> and they delivered him to the <hi>Gentiles.</hi>
+            </p>
+            <p>So, ſee what liberty he had amongſt them, who ſuffered the contradictions of Sinners.</p>
+            <p>And Chriſt was Buffetted, and Spit upon, and Strucken, and Smitten, and Mockt, and a Crown of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hornes put on his Head, and reviled and blaſphemed, yet did he not revenge himſelf, who had all Power in Heaven and in Earth given un<g ref="char:EOLhyphen"/>to him; did he or his Diſciples whip, buffet, ſcourge or Im<g ref="char:EOLhyphen"/>priſon, or Crown any with Thornes? but preacht and prof<g ref="char:EOLhyphen"/>fered unto them the Crown of Life, and of Glory.</p>
+            <p>And ſo follow ye Chriſt and the Apoſtles Examples, both in Life, Practice and Doctrine; which is every true Chri<g ref="char:EOLhyphen"/>ſtian's duty.</p>
+            <p>And doth not the Apoſtle ſay, <hi>That they had not Power over any man's Faith, but Jeſus Chriſt was the Author and finiſher of it, and in it they were to have their liberty, and what was not of Faith was Sin?</hi>
+            </p>
+            <p>So they did not ſay, they had Power to make them believe this or that, or to force them to a Faith; but they were to look unto Jeſus the Author and finiſher of their Faith; and God opened <hi>Lydias</hi> Heart, and ſhe believed.</p>
+            <pb n="9" facs="tcp:204168:6"/>
+            <p>So the Heart muſt be opened by the Lord, if they be true believers, by his Light and Spirit</p>
+            <p>And the Goſpel which is preached to every Creature, which is the Power of God; are not all to have their liberty in this Goſpel, which Goſpel was ſent from Heaven by the Holy Ghoſt?</p>
+            <p>So in this Goſpel are not all to have their liberty in the Pow<g ref="char:EOLhyphen"/>er of God?</p>
+            <p>And they were not compelled to receive it; for if they did not receive the Goſpel, nor obey it, the wrath of God was reveal<g ref="char:EOLhyphen"/>ed upon them from Heaven.</p>
+            <p>And if the World did not receive the Goſpel, which Chriſt ſent his Diſciples into all Nations to Preach, then God would Judge the world by the Man Chriſt Jeſus, according to the Goſpel the Power of God, which had been preached to them; and God would render Vengeance in flames of Fire, unto all them that did not receive and obey the Goſpel; and that was Puniſhment enough.</p>
+            <p>And you may read in the <hi>Revelations,</hi> what <hi>John</hi> the Divine tells you, <hi>what became of the Devil, that gave Power to the Beaſt, that compelled to Worſhip, and the Whore that drunk the Blood of the Saints, and made War with them,</hi> doth not he tell you, <hi>That they ſhall be caſt into the Lake of Fire, that burns with Brimſtone, and that the Whore's Fleſh ſhall be Burnt?</hi>
+            </p>
+            <p>And doth not Chriſt tell you, that he is the Seeds-man, <hi>And after the good Seed was ſown the Enemy ſowed his Tares, and they that had that Sight as to diſcern the Tares from the Wheat, and ſaw both come up, went to the Lord, and would have had a Licenſe from him to go and pluck up the Tares; but the Lord's anſwer was no, leſt they plucked up the Wheat alſo, but let them both grow together till the Harveſt, and the Harveſt is the End of the World.</hi> And then, ſaith Chriſt, <hi>I will ſend my Angels, who ſhall gather the Wheat into the Garner, and the Tares into bundles, and caſt them into the Fire to be burnt.</hi>
+            </p>
+            <p>So you may ſee Chriſt gave no Commiſſion to Men, to ga<g ref="char:EOLhyphen"/>ther the Wheat or the Tares, but it was the Angels work to<g ref="char:EOLhyphen"/>gather the Wheat into the Garner, and the Tares into bundles for the Fire.</p>
+            <pb n="10" facs="tcp:204168:7"/>
+            <p>And therefore they that go to gather either, have no Com<g ref="char:EOLhyphen"/>miſſion from Chriſt; for he gave them a Caution, <hi>Leſt ye alſo gather the Wheat with the Tares,</hi> and leſt their Zeal ſhould Blind them.</p>
+            <p>So men are to mind their duty, which is to love Mercy and to do Juſtly, and to walk Humbly with God: And not to take the Angels work upon them, and go to Reaping before the time, which is the End of the World.</p>
+            <p>And likewiſe when Chriſt ſent forth ſome of his Diſciples, to prepare for him, and ſome would not receive them; <hi>Lord,</hi> ſaid they, <hi>Shall we command Fire to come down from Heaven to conſume them, as</hi> Elias <hi>the Prophet did?</hi>
+            </p>
+            <p>Chriſt turned about, and rebuked his Diſciples, and told them, <hi>They did not know of what Spirit they were of:</hi> And told them, <hi>He did not come to deſtroy mens Lives, but to ſave them.</hi>
+            </p>
+            <p>So ye may ſee here, the Diſciples of Chriſt had a Zeal, and would have had Fire to have come down from Heaven, to have Conſumed them that would not receive Chriſt: Theſe Diſciples would have been plucking up Tares, but Chriſt re<g ref="char:EOLhyphen"/>buked them and ſtopt them; and told them, <hi>They did not know of what Spirit they were of, that would have commanded Fire to come down from Heaven, to have conſumed them that would not receive him.</hi>
+            </p>
+            <p>And now do all you that have Perſecuted, Impriſoned, and ſpoiled the Goods of the People of God in <hi>Chriſtendom,</hi> be<g ref="char:EOLhyphen"/>cauſe they would not conform to your Religion, know what Spirit you are of your ſelves? And they that do not know what Spirit they are of themſelves, muſt be in the blind Zeal, and will be doing that which Chriſt Rebukes; and they that do not know what Spirit they are of themſelves, are not like to watch for Peoples Soules.</p>
+            <p>And People are not like to truſt their Bodies, muchleſs their Souls into the Hands of ſuch, that know not what Spirit they are of themſelves.</p>
+            <p>And therefore conſider what Spirit ye &amp; they have been of, that have Perſecuted, put to Death, ſpoiled the Goods &amp; Impri<g ref="char:EOLhyphen"/>ſoned ſuch as would not conform to your Way and Worſhip;
+<pb n="11" facs="tcp:204168:7"/>and yet call your ſelves Chriſtians, and Miniſters of Chriſt.</p>
+            <p>I ſay, Chriſt who rebuked his Diſciples, who would have had Fire to come down from Heaven, upon them that would not receive him, will rebuke you alſo.</p>
+            <p>And as Chriſt told his Diſciples, <hi>They did not know what Spirit they were of,;</hi> neither do ye know what Spirit ye have been of: And mark, there were more in the Apoſtles Deſire, to have Fire come down from Heaven to Conſume them that would not receive the Subſtance, the Lord of Glory, then for you to Force, Impriſon, Perſecute, Baniſh, or Put to Death, or Spoil the Goods of ſuch as will not receive your Way, and Worſhip, and Religion, that you have ſet up. So, how can you but expect a greater Rebuke to come upon you, that per<g ref="char:EOLhyphen"/>ſecute and deſtroy ſuch as will not receive your Forms of Re<g ref="char:EOLhyphen"/>ligion and Worſhip, when they were rebuked that would have Fire to come down to deſtroy them that would not receive Chriſt, the Subſtance and the Life?</p>
+            <p>For they were told by Chriſt, <hi>They did not know what Spi<g ref="char:EOLhyphen"/>rit they were of,</hi> and that <hi>he came not to deſtroy Mens Lives, but to ſave them.</hi>
+            </p>
+            <p>And therefore conſider how many mens Lives have been de<g ref="char:EOLhyphen"/>ſtroyed ſince the Apoſtle dayes by them that profeſs themſelves <hi>Chriſtians</hi> in <hi>Chriſtendom,</hi> becauſe they would not receive their Religions and Wayes: they that have done ſo, have not known of what Spirit they are of, nor followed the Mind of Chriſt, to ſave mens Lives; and do not know what Spirit they are of, that would deſtroy mens Lives.</p>
+            <p>So weigh and conſider this all People in the whole World, that profeſs God and Chriſt, now in this the Day of your Viſitation.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
